@@ -1,0 +1,55 @@
+.navbar {
+    background-color: rgba(0, 0, 0, 0.7) !important; /* Semi-transparent navbar */
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Header Image */
+.header-image {
+    background-image: url('img/venue.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    text-align: center;
+    padding: 20px;
+}
+
+/* Hero Section (Under Welcome) */
+.hero-section {
+    background-color: rgba(0, 0, 0, 0.5); /* Optional overlay for readability */
+    padding: 20px;
+    border-radius: 8px;
+    width: 60%;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.calendar-table th, .calendar-table td {
+    text-align: center;
+    vertical-align: middle;
+    height: 80px;
+    border: 1px solid #ccc;
+}
+.calendar-table th {
+    background-color: #f8f9fa;
+    font-weight: bold;
+}
+.calendar-table td:hover {
+    background-color: #e9ecef;
+}
+.reservation-info {
+    font-size: 0.8rem;
+    color: #28a745;
+}
