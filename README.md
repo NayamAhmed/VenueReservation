@@ -1,5 +1,5 @@
 # VenueReservation
-his project is a web-based application for managing activities, reservations, and comments for a recreational service (e.g., a campsite or similar facility). It consists of PHP scripts for backend logic, a CSS stylesheet for design, and includes functionality to handle user inputs and responses.
+This project is a web-based application for managing activities, reservations, and comments for a recreational service (e.g., a campsite or similar facility). It consists of PHP scripts for backend logic, a CSS stylesheet for design, and includes functionality to handle user inputs and responses.
 
 File Descriptions
 PHP Files
